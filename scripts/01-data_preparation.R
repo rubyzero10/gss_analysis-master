@@ -7,7 +7,7 @@
 # Pre-requisites: 
 # - Need to have downloaded the GSS data and saved it to inputs/data
 
-
+# personal toekn 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
 #### Workspace setup ####
 library(haven)
 library(tidyverse)
